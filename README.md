@@ -11,7 +11,7 @@
 - 🌍 Based in Germany <br/>
 - ✨ Always curious, always learning <br/>
 - 🌱 I'm currently learling **Javacript and React** <br/>
-- 📫 How to reach me [Delimaleonardo43@gmail.com](Delimaleonardo43@gmail.com)
+- 📫 How to reach me [Delimaleonardo43@gmail.com]
 
 
 
